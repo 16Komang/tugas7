@@ -1,3 +1,23 @@
+# Hasil Praktikum
+
+# Cek File
+
+![Screenshot](images/1.png)
+
+# network_wordcount
+
+![Screenshot](images/2.png)
+![Screenshot](images/3.png)
+
+# stateful_network_wordcount
+
+![Screenshot](images/4.png)
+
+# network_wordjoinsentiments
+
+![Screenshot](images/5.png)
+![Screenshot](images/6.png)
+
 1.  Silakan selesaikan praktikum tersebut sesuai langkah-langkah sebelumnya, lalu laporkan hasilnya berupa link repository GitHub dengan nama spark-streaming disertai dengan screenshot hasilnya.
 2.  Jelaskan perbedaan spark streaming dengan metode stateless dan stateful stream processing ?
     -   Stateless stream processing adalah pendekatan pemrosesan data aliran di mana setiap batch
@@ -34,27 +54,7 @@
     mengambil   
     transform: Metode transform() digunakan pada DStream (Distributed Stream) untuk menghasilkan DStream baru dengan menerapkan transformasi pada setiap batch dari DStream yang ada. Transformasi yang diberikan dapat berupa fungsi atau ekspresi lambda.
     rdd.sortByKey(False): Metode sortByKey() digunakan pada RDD untuk mengurutkan elemen berdasarkan kunci (key) dalam urutan menaik atau menurun. Dalam contoh ini, rdd.sortByKey(False) akan mengurutkan RDD berdasarkan kunci dalam urutan menurun (descending order), di mana False menandakan urutan menurun.
-
-# Hasil Praktikum
-
-# Cek File
-
-![Screenshot](images/1.png)
-
-# network_wordcount
-
-![Screenshot](images/2.png)
-![Screenshot](images/3.png)
-
-# stateful_network_wordcount
-
-![Screenshot](images/4.png)
-
-# network_wordjoinsentiments
-
-![Screenshot](images/5.png)
-![Screenshot](images/6.png)
-
+    
 ##### Komang Gede Narariya Suputra
 
 ##### 2041720225
